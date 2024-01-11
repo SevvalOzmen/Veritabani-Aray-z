@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\Gratis\GratisDL\obj\Debug\net8.0\GratisDL.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Gratis\GratisDL\obj\Debug\net8.0\GratisDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Gratis\GratisDL\obj\Debug\net8.0\GratisDL.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Gratis\GratisDL\obj\Debug\net8.0\GratisDL.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Gratis\GratisDL\obj\Debug\net8.0\GratisDL.csproj.CoreCompileInputs.cache

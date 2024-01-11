@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Gratis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B933639F-07C5-4298-83D4-11316AC0D83D}|GratisUI\\GratisUI.csproj|c:\\users\\asus\\source\\repos\\gratis\\gratisui\\musteripage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933639F-07C5-4298-83D4-11316AC0D83D}|GratisUI\\GratisUI.csproj|solutionrelative:gratisui\\musteripage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AAC549-0968-4D1E-805F-0848B31C8FD7}|GratisBL\\GratisBL.csproj|c:\\users\\asus\\source\\repos\\gratis\\gratisbl\\odemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AAC549-0968-4D1E-805F-0848B31C8FD7}|GratisBL\\GratisBL.csproj|solutionrelative:gratisbl\\odemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AAC549-0968-4D1E-805F-0848B31C8FD7}|GratisBL\\GratisBL.csproj|c:\\users\\asus\\source\\repos\\gratis\\gratisbl\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AAC549-0968-4D1E-805F-0848B31C8FD7}|GratisBL\\GratisBL.csproj|solutionrelative:gratisbl\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AAC549-0968-4D1E-805F-0848B31C8FD7}|GratisBL\\GratisBL.csproj|c:\\users\\asus\\source\\repos\\gratis\\gratisbl\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AAC549-0968-4D1E-805F-0848B31C8FD7}|GratisBL\\GratisBL.csproj|solutionrelative:gratisbl\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC56F04-F99C-44D1-8709-8AAE5BD22813}|GratisDL\\GratisDL.csproj|c:\\users\\asus\\source\\repos\\gratis\\gratisdl\\dl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC56F04-F99C-44D1-8709-8AAE5BD22813}|GratisDL\\GratisDL.csproj|solutionrelative:gratisdl\\dl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AAC549-0968-4D1E-805F-0848B31C8FD7}|GratisBL\\GratisBL.csproj|c:\\users\\asus\\source\\repos\\gratis\\gratisbl\\bl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AAC549-0968-4D1E-805F-0848B31C8FD7}|GratisBL\\GratisBL.csproj|solutionrelative:gratisbl\\bl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933639F-07C5-4298-83D4-11316AC0D83D}|GratisUI\\GratisUI.csproj|c:\\users\\asus\\source\\repos\\gratis\\gratisui\\musteripage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B933639F-07C5-4298-83D4-11316AC0D83D}|GratisUI\\GratisUI.csproj|solutionrelative:gratisui\\musteripage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC56F04-F99C-44D1-8709-8AAE5BD22813}|GratisDL\\GratisDL.csproj|c:\\users\\asus\\source\\repos\\gratis\\gratisdl\\gratisdl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FC56F04-F99C-44D1-8709-8AAE5BD22813}|GratisDL\\GratisDL.csproj|solutionrelative:gratisdl\\gratisdl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933639F-07C5-4298-83D4-11316AC0D83D}|GratisUI\\GratisUI.csproj|c:\\users\\asus\\source\\repos\\gratis\\gratisui\\musterieditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B933639F-07C5-4298-83D4-11316AC0D83D}|GratisUI\\GratisUI.csproj|solutionrelative:gratisui\\musterieditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933639F-07C5-4298-83D4-11316AC0D83D}|GratisUI\\GratisUI.csproj|c:\\users\\asus\\source\\repos\\gratis\\gratisui\\gratisui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B933639F-07C5-4298-83D4-11316AC0D83D}|GratisUI\\GratisUI.csproj|solutionrelative:gratisui\\gratisui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AAC549-0968-4D1E-805F-0848B31C8FD7}|GratisBL\\GratisBL.csproj|c:\\users\\asus\\source\\repos\\gratis\\gratisbl\\gratisbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32AAC549-0968-4D1E-805F-0848B31C8FD7}|GratisBL\\GratisBL.csproj|solutionrelative:gratisbl\\gratisbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AAC549-0968-4D1E-805F-0848B31C8FD7}|GratisBL\\GratisBL.csproj|c:\\users\\asus\\source\\repos\\gratis\\gratisbl\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AAC549-0968-4D1E-805F-0848B31C8FD7}|GratisBL\\GratisBL.csproj|solutionrelative:gratisbl\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AAC549-0968-4D1E-805F-0848B31C8FD7}|GratisBL\\GratisBL.csproj|c:\\users\\asus\\source\\repos\\gratis\\gratisbl\\satis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AAC549-0968-4D1E-805F-0848B31C8FD7}|GratisBL\\GratisBL.csproj|solutionrelative:gratisbl\\satis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933639F-07C5-4298-83D4-11316AC0D83D}|GratisUI\\GratisUI.csproj|c:\\users\\asus\\source\\repos\\gratis\\gratisui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B933639F-07C5-4298-83D4-11316AC0D83D}|GratisUI\\GratisUI.csproj|solutionrelative:gratisui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusteriPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisUI\\MusteriPage.xaml.cs",
+              "RelativeDocumentMoniker": "GratisUI\\MusteriPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisUI\\MusteriPage.xaml.cs",
+              "RelativeToolTip": "GratisUI\\MusteriPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-06T18:55:30.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Odemeler.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisBL\\Odemeler.cs",
+              "RelativeDocumentMoniker": "GratisBL\\Odemeler.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisBL\\Odemeler.cs",
+              "RelativeToolTip": "GratisBL\\Odemeler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-06T17:59:27.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Musteriler.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisBL\\Musteriler.cs",
+              "RelativeDocumentMoniker": "GratisBL\\Musteriler.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisBL\\Musteriler.cs",
+              "RelativeToolTip": "GratisBL\\Musteriler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-06T17:59:08.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisBL\\Calisan.cs",
+              "RelativeDocumentMoniker": "GratisBL\\Calisan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisBL\\Calisan.cs",
+              "RelativeToolTip": "GratisBL\\Calisan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-06T17:58:47.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisDL\\DL.cs",
+              "RelativeDocumentMoniker": "GratisDL\\DL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisDL\\DL.cs",
+              "RelativeToolTip": "GratisDL\\DL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-06T17:57:48.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisBL\\BL.cs",
+              "RelativeDocumentMoniker": "GratisBL\\BL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisBL\\BL.cs",
+              "RelativeToolTip": "GratisBL\\BL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-06T17:57:22.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MusteriPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisUI\\MusteriPage.xaml",
+              "RelativeDocumentMoniker": "GratisUI\\MusteriPage.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisUI\\MusteriPage.xaml",
+              "RelativeToolTip": "GratisUI\\MusteriPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-06T17:55:00.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GratisDL.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisDL\\GratisDL.csproj",
+              "RelativeDocumentMoniker": "GratisDL\\GratisDL.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisDL\\GratisDL.csproj",
+              "RelativeToolTip": "GratisDL\\GratisDL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-01-06T18:07:53.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MusteriEditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisUI\\MusteriEditPage.xaml",
+              "RelativeDocumentMoniker": "GratisUI\\MusteriEditPage.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisUI\\MusteriEditPage.xaml",
+              "RelativeToolTip": "GratisUI\\MusteriEditPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-06T17:55:33.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Satis.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisBL\\Satis.cs",
+              "RelativeDocumentMoniker": "GratisBL\\Satis.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisBL\\Satis.cs",
+              "RelativeToolTip": "GratisBL\\Satis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-06T17:59:45.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GratisUI.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisUI\\GratisUI.csproj",
+              "RelativeDocumentMoniker": "GratisUI\\GratisUI.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisUI\\GratisUI.csproj",
+              "RelativeToolTip": "GratisUI\\GratisUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-01-06T17:54:10.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Urunler.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisBL\\Urunler.cs",
+              "RelativeDocumentMoniker": "GratisBL\\Urunler.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisBL\\Urunler.cs",
+              "RelativeToolTip": "GratisBL\\Urunler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-06T18:00:02.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GratisBL.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisBL\\GratisBL.csproj",
+              "RelativeDocumentMoniker": "GratisBL\\GratisBL.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisBL\\GratisBL.csproj",
+              "RelativeToolTip": "GratisBL\\GratisBL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-01-06T18:24:34.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisUI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "GratisUI\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Gratis\\GratisUI\\MainPage.xaml",
+              "RelativeToolTip": "GratisUI\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-06T17:32:41.115Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

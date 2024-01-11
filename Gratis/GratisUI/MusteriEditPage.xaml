@@ -1,0 +1,74 @@
+ using GratisBL;
+namespace GratisUI;
+
+public partial class MusteriEditPage : ContentPage
+{
+	Musteriler musteri;
+
+    public Action<Musteriler>AddMetod { get; internal set; }
+
+    public Action
+</Musteriler> EditMetod { get; internal set; }
+
+    public MusteriEditPage(Musteri m=null)
+	{
+		InitializeComponent();
+        if (m != null)
+        {
+            txtAd.Text = m.Ad;
+            txtSoyad.Text = m.Soyad;
+            txtTelefon.Text = m.Telefon;
+            txtDogumTarihi.Date = new DateTime(txtDogumTarihi.Date.Year, txtDogumTarihi.Date.Month, txtDogumTarihi.Date.Day);
+            txtMail.Text = m.Mail;
+
+        }
+
+        musteri = m;
+    }
+
+
+    void OkClicked(System.Object sender, System.EventArgs e)
+    {
+
+        if (musteri == null)
+        {
+            musteri = new Musteriler()
+            {
+                Ad = txtAd.Text,
+                Soyad = txtSoyad.Text,
+                Telefon = txtTelefon.Text,
+                DogumTarihi = getDateTime(),
+                Mail = txtMail.Text
+
+            };
+
+            if (AddMetod != null)
+            {
+                AddMetod(musteri);
+            }
+        }
+        else
+        {
+            mmusteri.Ad = txtAd.Text;
+            musteri.Soyad = txtSoyad.Text;
+            musteri.Telefon = txtSoyad.Text;
+            musteri.DogumTarihi = getDateTime();
+            musteri.Mail = txtMaas.Text;
+
+            EditMetod(musteri);
+        }
+        Navigation.PopModalAsync(); //asıl sayfasına geri dönecek
+
+    }
+
+    void CancelClicked(System.Object sender, System.EventArgs e)
+    {
+        Navigation.PopModalAsync();
+    }
+
+    DateTime getDateTime()
+    {
+        return new DateTime(txtDogumTarihi.Date.Year, txtDogumTarihi.Date.Month, txtDogumTarihi.Date.Day
+            );
+    }
+}
